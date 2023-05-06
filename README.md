@@ -3,7 +3,7 @@
 Building an Interactive Looker studio 
 
 objectives:
-Understand the revenue for the an online store
+Understand the revenue for an online store
 
 critical Questions:
 1. Is revenue growing monthly?
